@@ -1,6 +1,6 @@
-#Personal Portfolio website
+Personal Portfolio website
 
-Technology stack :
-HTML 
-CSS 
-Javascript
+**Technology stack**:
+>HTML 
+>CSS 
+>Javascript
